@@ -1,17 +1,17 @@
-# 🔐 Cybersecurity Lab Environment Setup
+<h1 align="center">🔐 Cybersecurity Lab Environment Setup</h1>
 
-**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+<p align="center"><b>Building an isolated virtual lab for penetration testing and ethical hacking practice</b></p>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Practice-darkred)
-![VMware](https://img.shields.io/badge/VMware-Workstation-607078)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Attacker%20VM-557C94)
-![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-blue)
-![NAT](https://img.shields.io/badge/VMnet8-NAT-informational)
-![Report](https://img.shields.io/badge/Report-PDF-orange)
-![Author](https://img.shields.io/badge/Author-Selvi%20Melani-success)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Lab-red" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-Practice-darkred" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/VMware-Workstation-607078" alt="VMware">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Attacker%20VM-557C94" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-blue" alt="Network">
+  <img src="https://img.shields.io/badge/VMnet8-NAT-informational" alt="NAT">
+  <img src="https://img.shields.io/badge/Report-PDF-orange" alt="Report">
+  <img src="https://img.shields.io/badge/Author-Selvi%20Melani-success" alt="Author">
+</p>
 
 ## 📌 Project Overview
 
